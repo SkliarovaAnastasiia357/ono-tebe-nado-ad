@@ -52,8 +52,7 @@ header {
   display: block;
   margin-top: 25px;
 }
-
-.header_logo-image {  
+.header_logo-image {
   width: 148px;
   height: 105px;
 }
@@ -252,7 +251,7 @@ header {
   font-size: 20px;
   text-decoration-line: underline;
   text-underline-position: under;
-  width: fit-content; 
+  width: fit-content;
   text-transform: uppercase;
 }
 
